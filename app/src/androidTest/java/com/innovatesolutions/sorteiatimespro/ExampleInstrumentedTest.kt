@@ -1,4 +1,4 @@
-package com.innovatesolutions.myapplication
+package com.innovatesolutions.sorteiatimespro
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
